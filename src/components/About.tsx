@@ -106,7 +106,7 @@ ${formData.message}
                   Hi, I'm Ayush Kumar
                 </h3>
                 <p className="text-lg text-muted-foreground mb-4">
-                  I'm a passionate and a passionate and innovative Computer
+                  I'm a passionate  and innovative Computer
                   Science Engineer with a strong foundation in full-stack web
                   development and a growing expertise in modern technologies
                   like React, Node.js, MongoDB, and Express. I enjoy building
