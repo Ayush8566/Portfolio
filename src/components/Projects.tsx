@@ -21,7 +21,7 @@ export const Projects = () => {
         "JWT",
       ],
       github: "https://github.com/Ayush8566/HavenLux_",
-      live: "https://havenlux-71bg.onrender.com/",
+      live: "https://havenlux-ggvz.onrender.com",
       image: "🏡",
       status: "Completed",
     },
